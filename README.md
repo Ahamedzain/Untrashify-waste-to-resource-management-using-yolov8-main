@@ -202,6 +202,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **♻️ Reduce. Reuse. Recycle. Rethink. ♻️**
 
-[GitHub](https://github.com/yourusername/trashify) · [Issues](https://github.com/yourusername/trashify/issues) · [Contact](mailto:your.email@example.com)
 
 </div> 
